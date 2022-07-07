@@ -22,10 +22,40 @@ h1 {
 .anchor-tag {
     color: whitesmoke;
     text-decoration: none;
-    background-color: rgb(173, 92, 109);
+    background-color: rgb(252, 114, 114);
     padding: 5px 10px;
     border-radius: 5px;
     font-weight: 600;
-    border-color: white;
+}
+
+.donate-today {
+    text-align: center;
+}
+
+h2 {
+    width: 251px;
+    height: 33px;
+    padding-left: 15px;
+    border: 2px solid #919191;
+    outline: 0px;
+    color: #919191;
+    margin-bottom: 15px;
+    background: transparent;
+    display: flex;
+    margin: 4px;
+}
+
+.flexible {
+    display: flex;
+    padding: 30px;
+}
+
+.shadow {
+    border-color: red;
+    background-color: rgb(237, 199, 199);
+}
+
+.other {
+    text-decoration: underline;
 
 }
